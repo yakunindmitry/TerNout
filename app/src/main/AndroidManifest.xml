@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.yadmitry.ternout.app" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ru.yadmitry.ternout.app.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.yadmitry.ternout.app.DB_LoadingActivity"
+            android:label="@string/title_activity_db__loading" >
+        </activity>
+        <activity
+            android:name="ru.yadmitry.ternout.app.AddCallActivity"
+            android:label="@string/title_activity_add_call" >
+        </activity>
+        <activity
+            android:name="ru.yadmitry.ternout.app.SelectFioActivity"
+            android:label="@string/title_activity_select_fio" >
+        </activity>
+        <activity
+                android:name=".SelectStreetFIOActivity"
+                android:label="@string/title_activity_select_street" >
+        </activity>
+        <activity
+                android:name="ru.yadmitry.ternout.app.SelectComplaintActivity"
+                android:label="@string/title_activity_select_compaint" >
+        </activity>
+        <activity
+                android:name="ru.yadmitry.ternout.app.SelectComplaintChildActivity"
+                android:label="@string/title_activity_select_compaint" >
+        </activity>
+    </application>
+
+</manifest>

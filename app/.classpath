@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Android API 21 Platform"/>
+	<classpathentry kind="src" path="/app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/aidl/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/rs/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/res/rs/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/r/test/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/aidl/test/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/buildConfig/test/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/rs/test/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/res/rs/test/debug"/>
+	<classpathentry kind="src" path="/app/src/debug/res"/>
+	<classpathentry kind="src" path="/app/src/debug/resources"/>
+	<classpathentry kind="src" path="/app/src/debug/aidl"/>
+	<classpathentry kind="src" path="/app/src/debug/assets"/>
+	<classpathentry kind="src" path="/app/src/debug/java"/>
+	<classpathentry kind="src" path="/app/src/debug/jni"/>
+	<classpathentry kind="src" path="/app/src/debug/rs"/>
+	<classpathentry kind="src" path="/app/src/main/res"/>
+	<classpathentry kind="src" path="/app/src/main/resources"/>
+	<classpathentry kind="src" path="/app/src/main/aidl"/>
+	<classpathentry kind="src" path="/app/src/main/assets"/>
+	<classpathentry kind="src" path="/app/src/main/java"/>
+	<classpathentry kind="src" path="/app/src/main/jni"/>
+	<classpathentry kind="src" path="/app/src/main/rs"/>
+	<classpathentry kind="src" path="/app/src/androidTest/res"/>
+	<classpathentry kind="src" path="/app/src/androidTest/resources"/>
+	<classpathentry kind="src" path="/app/src/androidTest/aidl"/>
+	<classpathentry kind="src" path="/app/src/androidTest/assets"/>
+	<classpathentry kind="src" path="/app/src/androidTest/java"/>
+	<classpathentry kind="src" path="/app/src/androidTest/jni"/>
+	<classpathentry kind="src" path="/app/src/androidTest/rs"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
